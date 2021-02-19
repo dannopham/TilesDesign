@@ -18,6 +18,6 @@
 
 # Tile 4 - Basemap with Labels
 ![Image](img/Tile4.JPG)
-* Lastly here is a custom basemap with labels showing the name of restaurants that are operating during COVID.
+* Lastly here is a custom UW-themed basemap with labels showing the name of restaurants that are operating during COVID.
 * The geographic area is still the same focusing on metroplitans areas of washington
 * minZoom: 10, maxZOom: 14
